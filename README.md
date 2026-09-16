@@ -37,7 +37,7 @@ Example:
 All task demo videos are posted on LinkedIn with hashtags #oasisinfobyte #oasisinfobyteinternship #webdevelopment #internship
 
 ### 🔗 Connect
-- LinkedIn: [Your LinkedIn Link]
+- LinkedIn: [https://www.linkedin.com/in/yelibaani-emmanuel-ali-6216a3395?utm_source=share_via&utm_content=profile&utm_medium=member_android]
 - GitHub: [Your GitHub Profile Link]
 
 This repository is maintained as part of the OIBSIP Master Onboarding Checklist (Section 1.1 & 1.2).
